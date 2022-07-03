@@ -1,0 +1,771 @@
+{
+    "Url": "www.epdata.es/ocupados-frecuencia-realizar-teletrabajo-espana/8c35a8f1-a712-4da6-b3e5-dbe627c625c5",
+    "Respuesta": {
+        "Id": "8c35a8f1-a712-4da6-b3e5-dbe627c625c5",
+        "Url": "www.epdata.es/ocupados-frecuencia-realizar-teletrabajo-espana/8c35a8f1-a712-4da6-b3e5-dbe627c625c5",
+        "Titulo": "Ocupados según la frecuencia de realizar teletrabajo en España",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Ocasionalmente",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "%",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 2.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Año",
+                            "Parametro": "2007",
+                            "Valor": 2.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Año",
+                            "Parametro": "2008",
+                            "Valor": 2.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Año",
+                            "Parametro": "2009",
+                            "Valor": 2.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Año",
+                            "Parametro": "2010",
+                            "Valor": 2.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 2.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Año",
+                            "Parametro": "2012",
+                            "Valor": 2.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Año",
+                            "Parametro": "2013",
+                            "Valor": 3.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 2.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Año",
+                            "Parametro": "2015",
+                            "Valor": 2.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Año",
+                            "Parametro": "2016",
+                            "Valor": 2.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "2018",
+                            "Valor": 3.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "2019",
+                            "Valor": 3.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "2020",
+                            "Valor": 2.9,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 1,
+                    "Nombre": "Más de la mitad de los días que trabajó",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "%",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Año",
+                            "Parametro": "2007",
+                            "Valor": 2.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Año",
+                            "Parametro": "2008",
+                            "Valor": 3.1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Año",
+                            "Parametro": "2009",
+                            "Valor": 3.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Año",
+                            "Parametro": "2010",
+                            "Valor": 3.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Año",
+                            "Parametro": "2012",
+                            "Valor": 4.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Año",
+                            "Parametro": "2013",
+                            "Valor": 4.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 4.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Año",
+                            "Parametro": "2015",
+                            "Valor": 3.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Año",
+                            "Parametro": "2016",
+                            "Valor": 3.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 4.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "2018",
+                            "Valor": 4.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "2019",
+                            "Valor": 4.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "2020",
+                            "Valor": 16.2,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 2,
+                    "Nombre": "Ningún día",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "%",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 94.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Año",
+                            "Parametro": "2007",
+                            "Valor": 94.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Año",
+                            "Parametro": "2008",
+                            "Valor": 94,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Año",
+                            "Parametro": "2009",
+                            "Valor": 93.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Año",
+                            "Parametro": "2010",
+                            "Valor": 93.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 92.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Año",
+                            "Parametro": "2012",
+                            "Valor": 91.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Año",
+                            "Parametro": "2013",
+                            "Valor": 91.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 92.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Año",
+                            "Parametro": "2015",
+                            "Valor": 92.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Año",
+                            "Parametro": "2016",
+                            "Valor": 92.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 91.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "2018",
+                            "Valor": 91.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "2019",
+                            "Valor": 90.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "2020",
+                            "Valor": 78.6,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 3,
+                    "Nombre": "No sabe",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "%",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 0.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Año",
+                            "Parametro": "2007",
+                            "Valor": 0.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Año",
+                            "Parametro": "2008",
+                            "Valor": 0.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Año",
+                            "Parametro": "2009",
+                            "Valor": 0.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Año",
+                            "Parametro": "2010",
+                            "Valor": 0.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 0.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Año",
+                            "Parametro": "2012",
+                            "Valor": 0.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Año",
+                            "Parametro": "2013",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Año",
+                            "Parametro": "2015",
+                            "Valor": 0.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Año",
+                            "Parametro": "2016",
+                            "Valor": 0.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "2018",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "2019",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "2020",
+                            "Valor": 2.3,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }],
+
+                "Metricas2": 
+                {
+                    "2006":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 2.2
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 3
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 94.2
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 0.6
+                        }
+
+                    ],
+                    "2007":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 2.5
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 2.7
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 94.2
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 0.6
+                        }
+
+                    ],
+                    "2008":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 2.4
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 3.1
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 94
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 0.5
+                        }
+
+                    ],
+                    "2009":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 2.6
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 3.3
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 93.5
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 0.6
+                        }
+
+                    ],
+                    "2010":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 3.8
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 3
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 93.2
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 0.6
+                        }
+
+                    ],
+                    "2011":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 2.7
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 4
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 92.6
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 0.7
+                        }
+
+                    ],
+                    "2012":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 2.8
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 4.5
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 91.6
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 0.9
+                        }
+
+                    ],
+                    "2013":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 4.3
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 3
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 91.6
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 1
+                        }
+
+                    ],
+                    "2014":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 2.6
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 4.3
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 92.2
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 1
+                        }
+
+                    ],
+                    "2015":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 2.9
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 3.6
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 92.7
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 0.8
+                        }
+
+                    ],
+                    "2016":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 2.9
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 3.5
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 92.8
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 0.8
+                        }
+
+                    ],
+                    "2017":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 3
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 4.3
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 91.8
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 1
+                        }
+
+                    ],
+                    "2018":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 3.2
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 4.3
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 91.5
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 1
+                        }
+
+                    ],
+                    "2019":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 3.5
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 4.8
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 90.7
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 1
+                        }
+
+                    ],
+                    "2020":[
+                        {"network":"Ocasionalmente",
+                            "MAU": 2.9
+                        },
+                        {"network":"Más de la mitad de los días que trabajó",
+                            "MAU": 16.2
+                        },
+                        {"network":"Ningún día",
+                            "MAU": 78.6
+                        },
+                        {"network":"No Sabe",
+                            "MAU": 2.3
+                        }
+
+                    ]
+
+                }
+            
+        }
+    }
+}
