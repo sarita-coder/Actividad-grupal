@@ -18,30 +18,75 @@
     <header>
       <nav class="navbar navbar-light bg-light shadow">
         <div class="container">
-          <a href="https://micampus.unir.net/courses/29920/assignments/465454?return_to=https%3A%2F%2Fmicampus.unir.net%2Fcalendar%23view_name%3Dmonth%26view_start%3D2022-07-03" class="navbar navbar-brand"> Actividad Grupal: Análisis tendencias en D3.js </a>
+              </div>
+        <div class="container">
           <img src="img/unir.png" height="65" />
+          <h1>
+            Situación Laboral: España
+          </h1>
           <img src="img/D3.png" height="80" class="rounded-circle" />
         </div>
       </nav>
     </header>
-    <main class="container mt-4">
-      <div class="d-flex justify-content-center">
-      <h1 class="titulo1">Actividad Grupal</h1>
-    </div>
-      <section id="controles">
-      </section>
-      <div id="graf" width="100%">
-
-      </div>
-    </main>
-    <div class="contairner">
-      <div class="d-flex justify-content-center">
-        <h1 class="titulo2">Ocupados según la frecuencia de realizar teletrabajo en España</h1>
-
-      </div>
+    <div class="container">
+    <div class="row">
+      <div class="col-sm-1"> </div>
+      <div class="col-sm-10"> 
+        <div class="row">
+            <h2 class="titulo1 d-flex justify-content-center">Empleados vs desempleados</h1>
+            <div class="row"></div>
+            <section id="controles" >
+              <button id="buttonOcupados" type="button" onclick="update(this, dataOcupados, dataOcupadosColor)" class="buttonData btn btn-success" style="margin-left: 260px;">Número Personas Empleadas</button>
+              <button id="buttonParados" type="button" onclick="update(this, dataParados, dataParadosColor)" class="buttonData btn btn-warning" style="margin-left: 50px;">Número Personas Desempleadas</button>
+            </section>
+            <div id="my_data">
+            </div>
+        </div>
+        <div class="row">
+          <div class="d-flex justify-content-center">
+          <h2 class="titulo1">Número de personas desempleados</h1>
+          </div>
+            <!-- <section id="controles">
+            </section> -->
+            <div id="graf" width="100%">
+  
+            </div>
+        </div>
+          <div class="row">
+            <div class="d-flex justify-content-center">
+            <h2 class="titulo1">Desempleo por género</h1>
+            </div>
+            <section>
+              <div class="row">       
+                <div class="col-md">
+                  <h6 class="titulo2"></h6>
+                  <select id="metrics" class="my-2 form-control"></select>
+                  <div id="barGraph" width="100%"></div>
+                  <p>
+                    Evolución del desempleo en España por sexo en los últimos 20 años.
+                  </p>
+                </div>
+              </div>
+            </section> 
+          </div>
+          <div class="row">
+            <div class="d-flex justify-content-center">
+              <h2 class="titulo1">Empleados según la frecuencia de realizar teletrabajo</h1>
+            </div>
+            <div id="chartdiv"></div>
+          </div>
+          <p> Por Efectos de la Pandemia se incrementa en Porcentaje del Teletrabajo en 2020</p>
+        </div>
+      <div class="col-sm-1"></div>
       
-      <div id="chartdiv"></div>
-    </div>
+  </div>
+  </div>
+
+    <footer>
+      <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+          Actividad Grupal: Equipo 19 
+      </div>
+    </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js" integrity="sha512-odNmoc1XJy5x1TMVMdC7EMs3IVdItLPlCeL5vSUPN2llYKMJ2eByTTAIiiuqLg+GdNr9hF6z81p27DArRFKT7A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
     <script
@@ -62,7 +107,12 @@
     <script src="https://www.amcharts.com/lib/4/core.js"></script>
 <script src="https://www.amcharts.com/lib/4/charts.js"></script>
 <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
-<script src="js/index.js"></script>
 <script src="js/app.js"></script>
+
+<script src="js/index.js"></script>
+<!-- <script src="js/year_chart.js"></script> -->
+<script src="js/barsGraph.js"></script>
+<script src="js/appGraphicBar.js"></script>
+
   </body>
 </html>
